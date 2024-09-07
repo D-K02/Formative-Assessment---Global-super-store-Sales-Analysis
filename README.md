@@ -11,8 +11,9 @@ Key Features
 
 Video Walkthrough
 
-Watch the full video walkthrough of the dashboard here on LinkedIn:
-Video Walkthrough on LinkedIn
+Watch the full video walkthrough of the dashboard here on LinkedIn: https://www.linkedin.com/posts/d-k-8b9147290_powerbi-dataanalysis-salesperformance-activity-7238192703115513856-htwB/?utm_source=share&utm_medium=member_desktop
+
+
 How to Use
 
   1. Open the Power BI file to explore the interactive dashboard.
